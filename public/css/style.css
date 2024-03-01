@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Catchy Melody', sans-serif;
+    src:  url('../font/CatchyMelodyRegular-owA1o.ttf') format('truetype'),
+  }
+body{
+    font-family: 'Catchy Melody', sans-serif;
+    background-image: linear-gradient(var(--yellowBackground), var(--orangeBackground));
+}
+:root{
+ --maincolor : #1786cc;
+ --shadow:ghostwhite;
+ --red:#e94b4a;
+ --orangeBackground:#fea24f;
+ --yellow:#feff01;
+ --yellowBackground:#ffd658;
+}
+.game{
+    height: 500px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    margin-left: 60px;
+    margin-bottom: 45px;
+    letter-spacing: 10px;
+    color: var(--maincolor);
+    text-shadow: 0 0 15px var(--shadow);
+}
+
+.play{
+    width: 100px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}

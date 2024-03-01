@@ -1,4 +1,4 @@
-# Connect4 2-Player Local Multiplayer Game
+# Connect 4 (2-Player Local Multiplayer Game)
 
 ## Description:
 Welcome to Connect Four! This is a classic game of strategy and skill where two players take turns dropping colored discs into a grid with the goal of connecting four of their own discs vertically, horizontally, or diagonally. This version of the game is designed for local multiplayer, allowing two players to compete against each other on the same computer.

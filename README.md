@@ -16,3 +16,6 @@ Welcome to Connect Four! This is a classic game of strategy and skill where two 
 - Starting the Game: Simply launch the game .
 - Gameplay: Players take turns clicking on the column where they want to drop their colored disc. The disc will fall to the lowest available position in that column.
 - Winning: The game continues until one player successfully connects four of their own discs in a row, vertically, horizontally, or diagonally, or until the game board is full without a winner, resulting in a draw.
+
+###
+[Play Bong Game Now!](https://connect4-game-f8d61.web.app/)
